@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante do Curso de Técnico em Informática no Instituto Federal da Bahia.<br>Apaixonado por tecnologia e programação.<br>Front/Back. (Desenvolvimento Python/RPA)
+Técnico em Informática pelo Instituto Federal da Bahia.<br>Apaixonado por tecnologia e programação.<br>Front/Back. (Desenvolvimento Python/RPA)
 
 
 ## 🌐 Socials:
