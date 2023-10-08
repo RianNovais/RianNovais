@@ -1,15 +1,15 @@
-# 💫 About Me:
-Técnico em Informática pelo Instituto Federal da Bahia.<br>Apaixonado por tecnologia e programação.<br>Front/Back. (Desenvolvimento Python/RPA)
+# 👉 About Me:
 
+Hello, my name is Rian, I'm 20 years old and I'm a computer technician from IFBA (Instituto Federal da Bahia), I consider myself a lover of programming, I always feel like I'm fighting against my logical reasoning 🤯 trying to find the best ways to solve problems and bugs 🐛
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riannovais/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RianNovais&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RianNovais&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RianNovais&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Learning web development, using django and applying RPA tools with python
+ 
+  ## Technologies I am learning and using 🤖
+  
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/django.png" alt="Django" width="48" height="48" />
+    <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="48" height="48" />
+  </div>
