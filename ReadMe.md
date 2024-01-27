@@ -12,5 +12,5 @@ Learning web development, using django and applying RPA tools with python
     <img src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="48" height="48" />
-    <img width="48" height="48" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
+    <img width="48" height="48" src="https://img.icons8.com/nolan/48/flask.png" alt="flask"/>
   </div>
