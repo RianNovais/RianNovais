@@ -1,7 +1,7 @@
 # 👉 About Me:
-Olá! Sou o Rian, tenho 21 anos e atualmente curso Engenharia de Software. Sou técnico em informática e apaixonado por codar.
+Hi! I'm Rian, I'm 21 years old and I'm currently studying Software Engineering. I'm a computer technician and passionate about coding.
 
-Atuo como desenvolvedor RPA com foco em Python e, no momento, estou me aprofundando em Java/Spring Boot para ampliar minhas habilidades e oportunidades profissionais.
+I work as an RPA developer with a focus on Python and, at the moment, I'm delving deeper into Java/Spring Boot to expand my skills and professional opportunities.
  
   ## Technologies I am learning and using 🤖
 
