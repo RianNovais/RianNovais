@@ -5,5 +5,5 @@ Atuo como desenvolvedor RPA com foco em Python e, no momento, estou me aprofunda
  
   ## Technologies I am learning and using 🤖
 
-  [![My Skills](https://skillicons.dev/icons?i=python,django,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,docker)](https://skillicons.dev)
   
